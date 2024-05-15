@@ -1,6 +1,8 @@
 # BIG BREW CRUD Application
 
-### ****Creating the Database Table****
+Source code for our CRUD application project in ITS131L - Information Management Laboratory
+
+## ****Creating the Database Table****
 
 Create a tables inside your MySQL database using the following code.
 
@@ -46,16 +48,3 @@ CREATE TABLE TRANSACTION (
     `DISCREPANCY` INT(4) NOT NULL,
     PRIMARY KEY (`TRANSACTION_ID`)
 );
-
-# GIT COMMANDS #
-
-git --config global user.name "github_name"
-git --config global user.email "github_email"
-
-
-git status
-
-git config pull.rebase false
-
-
-a
