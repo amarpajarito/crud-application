@@ -2,6 +2,8 @@
 
 Source code for our CRUD application project in ITS131L - Information Management Laboratory
 
+Built it with HTML, PHP, and MySQL
+
 ## ****Creating the Database Table****
 
 Create a tables inside your MySQL database using the following code.
